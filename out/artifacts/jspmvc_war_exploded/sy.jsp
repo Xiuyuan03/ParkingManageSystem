@@ -1,0 +1,18 @@
+<%@ page language="java" pageEncoding="utf-8" %>
+
+
+<html>
+    <head>
+        <title>基于Java停车场管理系统</title>
+        <LINK href="css/style.css" type=text/css rel=stylesheet>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <style type="text/css">
+            <!--
+            body, td, th {
+                font-size: 12px;
+            }
+
+            -->
+        </style>
+    </head>
+</html>
